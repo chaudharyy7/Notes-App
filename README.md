@@ -22,15 +22,32 @@ This app lets you **write, edit, and manage** your notes effortlessly. Stay orga
 
 ---
 
-## 📸 App Preview  
-
-🚀 **Coming Soon... Stay Tuned!**  
-
----
-
 ## 🚀 Get Started  
 
 Clone the repo & fire up Android Studio:  
 
-```sh
-git clone https://github.com/chaudharyy7/NotesApp.git
+sh
+```git clone https://github.com/chaudharyy7/NotesApp.git```
+
+---
+
+📲 Run the app & start noting!
+
+## 🛠 Contribute & Improve
+💡 Love this project? Help make it better!
+
+🔹 Fork & Star the repo ⭐
+
+🔹 Submit Issues & PRs – Let's build together! 💪
+
+## 📩 Let's Connect
+🔗 LinkedIn – Vimal Chaudhary
+
+🐱 GitHub – chaudharyy7
+
+✉️ Email – vimal07chaudhary@gmail.com
+
+📢 Telegram – @The_deadMad
+
+💙 If you find this useful, don’t forget to ⭐ the repo! 🚀
+
